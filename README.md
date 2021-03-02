@@ -32,9 +32,9 @@ should print a message and terminate.
 
 Otherwise, the program should print a hint and then ask the user for another guess: 
 
-	•	if the difference between x and the guess is greater than 5, the program prints ‘not even close’.
-	•	if the difference between x and the guess is between 3 and 5 (inclusive), the program prints ‘close’.
-	•	if the difference between x and the guess is less than 3, the program prints ‘almost there’.
+	• if the difference between x and the guess is greater than 5, the program prints ‘not even close’.
+	• if the difference between x and the guess is between 3 and 5 (inclusive), the program prints ‘close’.
+	• if the difference between x and the guess is less than 3, the program prints ‘almost there’.
 
 The program should repeat asking the user for another input until the user guesses correctly or until there were
 five incorrect guesses. The program should keep track of the number of guesses. If the user cannot guess x in their
