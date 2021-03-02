@@ -1,8 +1,8 @@
-ENGI E1006 - Intro to Computing for Engineers & Applied Scientists 
+**ENGI E1006 - Intro to Computing for Engineers & Applied Scientists**
 
-Take-home project 1
+**Take-home project 1**
 
-Due: Wednesday February 10 11:59pm, New York time (ET / GMT-5) 
+Due: Wednesday February 10 11:59pm, New York time (ET / GMT-5)
 Total Points: 100
 
 The code you submit for take-home projects must be your own work. Please review the academic honesty
@@ -20,7 +20,7 @@ Important: If you re-submit your assignment you need to re-upload all files, 
 of them. Otherwise, any files you uploaded previously will be lost if you submit a second time.
  
 
-Part 1 - Guessing Game (50 pts) 
+**Part 1 - Guessing Game (50 pts) **
 
 In this problem you will implement a simple guessing game.
 
@@ -43,7 +43,7 @@ fifth guess, the program informs her that the game is lost and quits.
 Your program should be in a single file part1.py.  Make sure to convert the user input into an int. Use a loop
 to ask for guesses and print hints repeatedly.
 
-Part 2 - Inverse guessing game (50 pts) 
+**Part 2 - Inverse guessing game (50 pts)** 
 
 Let’s inverse the roles in the guessing game. This time, the player chooses a secret number between 1 and 10
 (in their mind) that the computer must guess. For this purpose, the computer suggests a number and the player
