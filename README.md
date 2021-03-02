@@ -13,8 +13,8 @@ Do not use Python modules other than those explicitly mentioned. 
 
 Upload the following two files to Courseworks:
 
-part1.py 
-part2.py 
+	part1.py 
+	part2.py
 
 Important: If you re-submit your assignment you need to re-upload all files, even if you changed just one
 of them. Otherwise, any files you uploaded previously will be lost if you submit a second time.
