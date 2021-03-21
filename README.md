@@ -2,7 +2,6 @@
 
 **Take-home project 1**
 
-Due: Wednesday February 10 11:59pm, New York time (ET / GMT-5)
 Total Points: 100
 
 The code you submit for take-home projects must be your own work. Please review the academic honesty
