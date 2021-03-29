@@ -1,7 +1,6 @@
 """
 A program to play an inverse guessing game, 
 where the computer guesses a secret number.
-
 """
 
 import random
