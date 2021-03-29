@@ -1,7 +1,6 @@
 """
 A program to play a number guessing game,
 where the user guesses a secret number.
-
 """
 
 import random
